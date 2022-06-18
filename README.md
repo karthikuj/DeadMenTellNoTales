@@ -2,6 +2,6 @@
   <br>
   <a href="https://github.com/karthikuj/DeadMenTellNoTales"><img src="https://raw.githubusercontent.com/karthikuj/karthikuj/master/images/dmtnt.png" alt="DeadMenTellNoTales" title="DeadMenTellNoTales"></a>
   <br>
-  DeadMenTellNoTales
+  DeadMenTellNoTales.
   <br>
-</h1>
+</h1> 
